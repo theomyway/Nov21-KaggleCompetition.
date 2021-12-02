@@ -29,5 +29,5 @@ print(test)
 sample = test[['id','target']].copy()
 print(sample)
 
-#CONCERTING TO CSV
+#CONVERTING TO CSV
 sample.to_csv('sample.csv',index=False)
