@@ -2,8 +2,8 @@
 
 #KAGGLE COMPETITION SCORE:
 
+<img width="725" alt="kagglescore" src="https://user-images.githubusercontent.com/91969204/144362241-99a161e3-c187-4bf2-a06b-2bbae8a4f291.PNG">
 
-<img width="723" alt="score" src="https://user-images.githubusercontent.com/91969204/144361858-740a7ac1-400b-4572-b222-41aba4ba5432.PNG">
 
 
 
